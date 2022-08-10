@@ -22,8 +22,8 @@ class CalculatorButton extends StatelessWidget {
     return Container(
       margin: EdgeInsets.all(10.0),
       child: SizedBox(
-        height: 70,
-        width: 70,
+        height: 60,
+        width: 60,
         child: RaisedButton(
           shape: RoundedRectangleBorder(
             borderRadius: BorderRadius.circular(15),
